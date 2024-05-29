@@ -1,0 +1,9 @@
+{
+	"name": "wpovernight/woocommerce-pdf-ips-ubl-extender",
+		"description": "PDF Invoices & Packing Slips for WooCommerce - UBL Extender",
+		"autoload": {
+			"psr-4": {
+				"WPO\\WC\\UBL\\Extender\\": "includes/"
+			}
+	}
+}
