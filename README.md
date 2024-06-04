@@ -4,7 +4,7 @@ This addon extends the functionality of the PDF Invoices & Packing Slips for Woo
 
 ## Installation
 
-1. **Clone this repository:**
+### Clone this repository
    
 ```shell
 git clone git@github.com:wpovernight/woocommerce-pdf-ips-ubl-extender.git
