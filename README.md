@@ -4,16 +4,11 @@ This addon extends the functionality of the PDF Invoices & Packing Slips for Woo
 
 ## Installation
 
-1. **Download the addon:**
-
-   Download the latest release from the [GitHub repository releases page](https://github.com/wpovernight/woocommerce-pdf-ips-ubl-extender/releases).
-
-2. **Upload and activate the plugin:**
-
-   - Go to your WordPress admin panel.
-   - Navigate to `Plugins` > `Add New`.
-   - Click `Upload Plugin` and select the downloaded ZIP file.
-   - Click `Install Now` and then `Activate`.
+1. **Clone this repository:**
+   
+```shell
+git clone git@github.com:wpovernight/woocommerce-pdf-ips-ubl-extender.git
+``` 
 
 ## Usage
 
