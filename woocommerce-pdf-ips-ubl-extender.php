@@ -11,7 +11,7 @@
  * License URI:          https://opensource.org/licenses/gpl-license.php
  * Text Domain:          woocommerce-pdf-ips-ubl-extender
  * WC requires at least: 3.3
- * WC tested up to:      8.9
+ * WC tested up to:      9.8
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
